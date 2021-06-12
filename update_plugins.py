@@ -58,6 +58,11 @@ typescript-vim https://github.com/leafgarland/typescript-vim
 vim-javascript https://github.com/pangloss/vim-javascript
 vim-python-pep8-indent https://github.com/Vimjas/vim-python-pep8-indent
 mru.vim https://github.com/vim-scripts/mru.vim
+vim-conflicted https://github.com/christoomey/vim-conflicted
+vim-airline https://github.com/vim-airline/vim-airline
+tmuxline.vim https://github.com/edkolev/tmuxline.vim
+vim-airline-themes https://github.com/vim-airline/vim-airline-themes
+nord-vim https://github.com/arcticicestudio/nord-vim
 """.strip()
 
 GITHUB_ZIP = "%s/archive/master.zip"
