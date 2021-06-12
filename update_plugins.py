@@ -47,8 +47,6 @@ vim-gitgutter https://github.com/airblade/vim-gitgutter
 gruvbox https://github.com/morhetz/gruvbox
 vim-flake8 https://github.com/nvie/vim-flake8
 vim-pug https://github.com/digitaltoad/vim-pug
-lightline.vim https://github.com/itchyny/lightline.vim
-lightline-ale https://github.com/maximbaz/lightline-ale
 vim-abolish https://github.com/tpope/tpope-vim-abolish
 rust.vim https://github.com/rust-lang/rust.vim
 vim-markdown https://github.com/plasticboy/vim-markdown
@@ -63,6 +61,7 @@ vim-airline https://github.com/vim-airline/vim-airline
 tmuxline.vim https://github.com/edkolev/tmuxline.vim
 vim-airline-themes https://github.com/vim-airline/vim-airline-themes
 nord-vim https://github.com/arcticicestudio/nord-vim
+vim-sensible https://github.com/tpope/vim-sensible
 """.strip()
 
 GITHUB_ZIP = "%s/archive/master.zip"
